@@ -1,0 +1,46 @@
+body{
+    background-color: #61122f;
+}
+
+.wrapper h2 {
+    color: gold;
+   
+}
+
+
+form{
+     background-color: rgba(rgb(138, 82, 116), rgb(38, 218, 38), blue, 0.18);
+}  
+
+form h4{
+    color: tomato;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.input-box{
+    padding: 3px;
+}
+.name{
+    padding: 8px;
+}
+.name:hover{
+    background-color: black;
+    color:white;
+}
+
+.dob{
+    margin-right: 5px;
+    padding: 7px;
+    border-radius: 20px;
+}
+
+.dob:hover{
+    background: rgb(43, 37, 37);
+    color:black !important;
+}
+.input-box label{
+    color: burlywood;
+    font-weight: bold;
+}
